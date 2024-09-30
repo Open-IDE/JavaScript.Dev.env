@@ -1,0 +1,4 @@
+- hosts: localhost
+  roles:
+  - UniInc.Visual-Studio-Code
+  - UniInc.JavaScript-Dev

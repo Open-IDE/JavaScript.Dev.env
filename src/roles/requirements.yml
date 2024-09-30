@@ -1,0 +1,5 @@
+---
+roles:
+#- UniInc.Docker
+- UniInc.Visual-Studio-Code
+- UniInc.JavaScript-Dev
